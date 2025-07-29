@@ -6,7 +6,7 @@ Este README foi criado como atividade de desafio do **Programa Bootcamp XP Inc |
 
 A participação deste programa vem como parte de um projeto pessoal de retorno ao ramo de Tecnologia depois de alguns anos trabalhando em áreas administrativas. E como não poderia deixar de ser, inicio por Computação em Nuvem e Inteligência Artificial Generativa.
 
-Aqui também você por ver minhas anotações, um pequeno resumo do que já vi no Bootcamp até agora. [Ver Anotações](https://github.com/maraamaral/DIO_Rep/blob/main/docs/)
+Aqui também você por ver minhas anotações, um pequeno resumo do que já vi no Bootcamp até agora. [Ver Anotações](https://github.com/maraamaral/DIO_Rep/blob/main/docs/Bootcamp xp.docx)
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:maradoamaralesilva@gmail.com)
