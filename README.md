@@ -1,14 +1,27 @@
 # DIO_Rep
 BootCamp Cloud e IA com DIO, XP e Microsoft
 
-Olá!
-Este README foi criado como atividade de desafio do **Programa Bootcamp XP Inc | Cloud com Inteligência artificial**, oferecido pela Digital Innovation One (DIO) em parceria com a XP Inc. e Microsoft.
+Este repositório contém os materiais e atividades desenvolvidos durante o **Programa Bootcamp XP Inc | Cloud com Inteligência artificial**. O conteúdo está organizado para facilitar o acompanhamento da jornada de aprendizado.
 
-A participação deste programa vem como parte de um projeto pessoal de retorno ao ramo de Tecnologia depois de alguns anos trabalhando em áreas administrativas. E como não poderia deixar de ser, inicio por Computação em Nuvem e Inteligência Artificial Generativa.
+## 💡 Objetivos
 
-Aqui também você por ver minhas anotações, um pequeno resumo do que já vi no Bootcamp até agora. [Ver Anotações](https://github.com/maraamaral/DIO_Rep/docs/Bootcamp%20xp.docx)
+- Consolidar o conhecimento adquirido nas aulas e desafios.
+- Compartilhar o progresso e aprendizados com a comunidade.
+- Servir como base para estudos futuros e projetos pessoais.
 
+---
 
+Aqui também você por ver minhas anotações, um pequeno resumo do conteúdo disponível no Bootcamp.
+## 📁 Arquivos do Projeto
+
+| Nome do Arquivo        | Descrição                                 |
+|------------------------|-------------------------------------------|
+| [BootCamp XP.docx](https://github.com/maraamaral/DIO_Rep/blob/main/BootCamp%20XP.docx) | Documento com conteúdo do Bootcamp XP da DIO |
+
+---
+
+E os meus contatos você pode encontrar aqui:
+##
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:maradoamaralesilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mara-amaral-304669310)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5549999767928)
