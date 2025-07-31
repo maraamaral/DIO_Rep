@@ -16,12 +16,14 @@ Aqui também você por ver minhas anotações, um pequeno resumo do conteúdo di
 
 | Nome do Arquivo        | Descrição                                 |
 |------------------------|-------------------------------------------|
-| [BootCamp XP.docx](https://github.com/maraamaral/DIO_Rep/blob/main/BootCamp%20XP.docx) | Documento com conteúdo do Bootcamp XP da DIO |
+| [BootCamp XP.docx](BootCamp%20XP.docx) | Documento com conteúdo do Bootcamp XP da DIO |
+| [Imp-VM](images/VM-Imp.jpg)|Print da implantação da máquina virtual|
+| [Inst-DB](images/Inst-DB.jpg)|Print da configuração da instância de banco de dados|
 
 ---
 
-E os meus contatos você pode encontrar aqui:
-##
+Entre em contato comigo:
+
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:maradoamaralesilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mara-amaral-304669310)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5549999767928)
